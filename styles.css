@@ -3,6 +3,10 @@
 * {
     font-family: "Lexend Deca", sans-serif;
     margin: 0;
-    padding: 20px;
+    padding: 15px;
     box-sizing: border-box;
+}
+
+.calendar{
+    width: 1500px;
 }
